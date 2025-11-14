@@ -28,12 +28,14 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
+```text
 .
-├── agent.py # Main graph logic
-├── agent_state.py # Defines state schema for LangGraph
-├── tools.py # Example tools (e.g., check_weather)
-├── test_agent.py # Test agent code
+├── agent.py          # Main graph logic
+├── agent_state.py    # Defines state schema for LangGraph
+├── tools.py          # Example tools (e.g., check_weather)
+├── test_agent.py     # Test agent code
 └── README.md
+```
 
 
 ---
